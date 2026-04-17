@@ -1,10 +1,7 @@
 {
   "mappings": {
-    "0.4.1-0.4.15": "v0.4.6"
+    "0.4.1-0.4.15": "v0.4.6",
+    "0.6.0rc2": "v0.7.1"
   },
-  "download_base": "https://github.com/droidrun/droidrun-portal/releases/download"
+  "download_base": "https://github.com/droidrun/mobilerun-portal/releases/download"
 }
-
-
-
-
